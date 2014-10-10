@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "Game Fox",
+  "description": "Game Facts, Can You Finish It?",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/icons/60.png",
+    "128": "/icons/128.png"
+  },
+  "developer": {
+    "name": "Team PLA - Possibilities, Learning, and Action",
+    "url": ""
+  },
+  "default_locale": "en"
+}

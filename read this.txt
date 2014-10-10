@@ -1,0 +1,2 @@
+create database : db_quiz_gamefox
+import : db_quiz_gamefox.sql
